@@ -1,4 +1,4 @@
-# Linkedin-Analytics-Dashboard-
+# Linkedin-Analytics-Dashboard (Tableau)
 The LinkedIn Analytics Dashboard visualizes 5,051 posts using Tableau, tracking views, engagements, and engagement rates. It highlights top-performing topics, monthly and weekly trends, and high-engagement posts, helping users make data-driven decisions to improve LinkedIn content strategy.
 
 This project provides an in-depth analysis of 5,051 LinkedIn posts, covering 60M+ total views and 619K engagements. The dashboard, built using Tableau, visualizes key metrics such as engagement trends, top-performing post topics, audience behavior, and monthly view patterns. It includes interactive KPIs, filters, and drill-down charts to help users identify actionable insights like weekend posts driving higher engagement, Career and Data Analytics being the most impactful content themes, and significant spikes in engagement during specific months.
